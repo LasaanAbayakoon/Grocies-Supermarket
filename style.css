@@ -107,7 +107,7 @@ nav ul {
   align-items: center;
   list-style: none;
 }
-#logo {
+.logo {
   flex: 1 1 40rem;
   font-family: "Pattaya", sans-serif;
   font-weight: 400;
@@ -1238,7 +1238,7 @@ label.payment_label {
     padding: 7px;
     width: 100%;
   }
-  #logo {
+  .logo {
     padding: 1rem;
     font-size: 3rem;
   }
